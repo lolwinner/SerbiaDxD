@@ -208,8 +208,9 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 ::*[[High School DxD: Croatian Volume 2 Pogovor|Pogovor.]]<BR>
 
 ===Volume 3 -Ekskalibur mesečinom obasjanog školskog dvorišta  ([[High School DxD: Croatian Volume 2|Čitav tekst]])===<BR>
-::*[[High School DxD: Croatian Volume 2 Život 0|Život.0]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 1|Život.1 Zagrej klub okultnih istraživača.]]<BR>
+<a href="3život 0.html">::*[[High School DxD: Croatian Volume 2 Život 0|Život.0]]</a><BR>
+<a href="3život 0.html">::*[[High School DxD: Croatian Volume 2 Život 1|Život.1 Zagrej klub okultnih istraživača.]]</a><BR>
+
 ::*[[High School DxD: Croatian Volume 2 Život 2|Život.2 Sveti mač je stigao.]]<BR>
 ::*[[High School DxD: Croatian Volume 2 Život 3|Život.3 Sudnji dan za sveti mač!.]]<BR>
 ::*[[High School DxD: Croatian Volume 2 Život 4|Život.4 Kreni!Klub okultnih istraživača!]]<BR>
