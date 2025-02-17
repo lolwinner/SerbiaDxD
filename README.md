@@ -183,7 +183,6 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 
 ===Volume 1 - Demoni stare školske zgrade ([[High School DxD: Croatian Volume 1|Čitav tekst]])===<BR>
 
-::*[[High School DxD: Croatian Volume 1 Illustrations|Ilustracije]]<BR>
 ::*[[High School DxD: Croatian Volume 1 Život 0|Život.0]]<BR>
 ::*[[High School DxD: Croatian Volume 1 Život 1|Život.1 Odustao sam biti ljudsko biće(37%).]]<BR>
 ::*[[High School DxD: Croatian Volume 1 Život 2|Život.2 Počinjem kao Vrag.]]<BR>
@@ -194,7 +193,6 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 
 ===Volume 2 - Phoenix u borbi za staru školsku zgradu ([[High School DxD: Croatian Volume 2|Čitav tekst]])===<BR>
 
-::*[[High School DxD: Croatian Volume 2 Illustrations|Ilustracije]]<BR>
 ::*[[High School DxD: Croatian Volume 2 Život 0|Život.0]]<BR>
 ::*[[High School DxD: Croatian Volume 2 Život 1|Život.1 Radim kao vrag.]]<BR>
 ::*[[High School DxD: Croatian Volume 2 Život 2|Život.2 Potukao sam se.]]<BR>
@@ -209,6 +207,13 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 ::*[[High School DxD: Croatian Volume 2 Novi Život|Novi Život.]]<BR>
 ::*[[High School DxD: Croatian Volume 2 Pogovor|Pogovor.]]<BR>
 
+===Volume 3 -Ekskalibur mesečinom obasjanog školskog dvorišta  ([[High School DxD: Croatian Volume 2|Čitav tekst]])===<BR>
+::*[[High School DxD: Croatian Volume 2 Život 0|Život.0]]<BR>
+::*[[High School DxD: Croatian Volume 2 Život 1|Život.1 Zagrej klub okultnih istraživača.]]<BR>
+::*[[High School DxD: Croatian Volume 2 Život 2|Život.2 Sveti mač je stigao.]]<BR>
+::*[[High School DxD: Croatian Volume 2 Život 3|Život.3 Sudnji dan za sveti mač!.]]<BR>
+::*[[High School DxD: Croatian Volume 2 Život 4|Život.4 Kreni!Klub okultnih istraživača!]]<BR>
+::*[[High School DxD: Croatian Volume 2 Život 5|Život.5 Sudar sudbina  Novi Vitez protiv Novog Rivala!]]<BR>
 ==Osoblje projekta==
 <BR>
 *Administrator projekta: [[user:Lolwinner]]<BR>
