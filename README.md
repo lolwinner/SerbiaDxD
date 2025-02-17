@@ -41,7 +41,7 @@ Treća priča: Knjige 7-12<DIV>
 |
 
 <div>
-<div style="float: left; width:42%; margin: 5px 20px;">
+
 '''Hyoudou Issei ''' (兵藤 一誠, ''Hyōdō Issei'')
 
  <img align="center" src="Pawn-Ise.jpg" >
