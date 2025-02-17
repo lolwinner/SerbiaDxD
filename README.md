@@ -57,7 +57,6 @@ Treća priča: Knjige 7-12<DIV>
 Pohađa 2. razred Gimnazije. Glup, pohotljiv i pokvarenjak(pervert). Normalan gimnazijalac rođen u prosječnoj obitelji, ali posjeduje Sacred Gear "Boosted Gear" koji je naveden kao jedan od najjačih Sacred Gear-ova. Ubila ga je njegova prva cura, pali anđeo, i oživljen je kao vrag, i kao sluga od Rias Gremory, njegov novi gospodar. Cilj mu je da postane Harem-King tako što dobije pravo na plemstvo, nesvjestan da privlači djevojke oko sebe.<DIV>
 
 </div>
-<div style="float: left; width:42%; margin: 5px 20px;">
 
 '''Rias Gremory''' (リアス・グレモリー, ''Riasu Guremorī'')
 
@@ -70,8 +69,7 @@ Pohađa 2. razred Gimnazije. Glup, pohotljiv i pokvarenjak(pervert). Normalan gi
 Pohađa 3. razred gimnazije i smatraju ju Madonnom akademije. Dolazi iz stare plemenite obitelji, koji su čistokrvni vragovi, kuća Gremory, visoko rangiran vrag koji nosi nadimak "Crimson-Haired Ruin Princess". Njezin brat je zapravo jedan od četiriju vladajućih vragova, Lucifer. Ona je oživila Ise-a nakon što ga je našla mrtvog, ubijen od strane palog-anđela i posjedujući rijedak Sacred Gear. Ljubazna i meka prema njezinim slugama, postane totalno drukčija osoba kada trenira ili se bori.<DIV>
 
 </div>
-<br style="clear: both;" />
-<div style="float: left; width:42%; margin: 5px 20px;">
+
 '''Asia Argento''' (アーシア・アルジェント, ''Âshia Arujento'')
 
 <img src="Bishop-Asia.jpg" align="center">
@@ -83,7 +81,6 @@ Pohađa 3. razred gimnazije i smatraju ju Madonnom akademije. Dolazi iz stare pl
 Pohađa 2. razred Gimnazije. Originalno je bila časna sestra koja je bila poznata kao Sveta-djevica zbog svojih iscjeliteljskih moći. Odgojena je u sirotištu i odvedena je u Crkvu nakon što saznali za njene moći. Izbacili su je iz Crkve zato što je izliječila vraga, pa su ju udomili ljudi povezani s palim-anđelima. Počela je živjeti zajedno s Ise-om, nakon što ju je spasio od palih-anđela, koji su htjeli oduzeti njezinu moć, Twilight Healing. Kao osoba odgojena u Crkvi, ona nema zdrav razum.<DIV>
 
 </div>
-<div style="float: left; width:42%; margin: 5px 20px;">
 '''Himejima Akeno''' (姫島 朱乃, ''Himejima Akeno'')
 
 <img src="Queen-Akeno.jpg" align="center">
@@ -95,8 +92,6 @@ Pohađa 2. razred Gimnazije. Originalno je bila časna sestra koja je bila pozna
 Pohađa 3. razred Gimnazije i jedna je od „Dviju Velikih Sestara“ škole uz Rias. Zovu je ultimativnom „Kraljicom“ ostali članovi. Rođena je između ljudske majke i oca, palog-anđela. Nakon smrti njene majke, postala je Rias-ina sluga. Dovoljno je bliska s Rias da ju u privatnom životu zove njezinim imenom, ali ju zove Buchou u prisutnosti ostalih članova i pokazuje odnos gospodara-sluge u javnosti. Uporno odbija koristiti njezinu moć svjetla, koju je naslijedila od svog oca, a počela ju je koristiti nakon što ju je uvjerio Ise.<DIV>
 
 </div>
-<br style="clear: both;" />
-<div style="float: left; width:42%; margin: 5px 20px;">
 '''Yuuto Kiba''' (木場 祐斗, ''Kiba Yūto'')
 
  
@@ -113,8 +108,6 @@ Pohađa 3. razred Gimnazije i jedna je od „Dviju Velikih Sestara“ škole uz 
 
 Pohađa 2. razred Gimnazije. Proglasio se najboljim prijateljem Ise-a, i princ škole. Bio je žrtva „Projekt:Sveti Mač“ gdje je on bio jedini preživjeli sudionik. Postao je Rias-in sluga nakon što ga spasila od smrti, ali još uvijek se zakleo na izvođenje osvete na onima koji su ga tretirali kao ispitanika i koji su mu ubili prijatelje. Također krije veliku ljutnju prema svetom maču Excalibur.<DIV>
 
-</div>
-<div style="float: left; width:42%; margin: 5px 20px;">
 '''Toujou Koneko''' (塔城 小猫, ''Tōjō Koneko'')
 
 [[File:Tank-Koneko.jpg|left|]]
@@ -126,8 +119,6 @@ Pohađa 2. razred Gimnazije. Proglasio se najboljim prijateljem Ise-a, i princ �
 Pohađa 1. razred Gimnazije. Prvobitno je umalo pogubljena od strane vragova nakon što je njezina sestra, Kuroka, ubila svog gospodara. Vrag, Lucifer, ju je branio, te ju ostavio svojoj sestri, Rias na čuvanje – postala je njezina služavka. Odbijala je koristiti moć sne-jutsu-a jer nije htjela postati ko svoja sestra. Prevladala je svoju moć zajedno s Akeno nakon što ih je Ise oboje nagovorio. Ne pokazuje nimalo emocija, te govori uvrjedljive stvari i lupi Ise-a kada radi ili razmišlja o perverznim stvarima. Pokazuje najveću brigu kada su joj drugovi u opasnosti.<DIV>
 
 </div>
-<br style="clear: both;" />
-<div style="float: left; width:42%; margin: 5px 20px;">
 '''Xenovia''' (ゼノヴィア, ''Zenovia'')
 
 [[File:Knight-Zenovia.jpg|left|]]
@@ -139,7 +130,6 @@ Pohađa 1. razred Gimnazije. Prvobitno je umalo pogubljena od strane vragova nak
 Korisnik je Svetih mačeva, poslana od strane Crkve zajedno s Irinom da uništi ili vrati ukradene mačeve Excalibur. Nakon što je sazna da je Bog iz Biblije davno umro, odlučila se pridružiti klubu Okultnih Istraživanja kao Rias-ina služavka. Pokušava zavesti Ise-a kad god može jer želi roditi jako dijete.<DIV>
 
 </div>
-<div style="float: left; width:42%; margin: 5px 20px;">
 '''Gasper Vladi''' (ギャスパー・ヴラディ, ''Gyasupā Buradi'')
 
 [[File:Bishop-Gasper.jpg|left|]]
@@ -152,7 +142,7 @@ Muški polu-vampir koji se voli oblačiti kao djevojka, ima moć zaustavljanja v
 
 </div>
 <br style="clear: both;" />
-<div style="float: left; width:42%; margin: 5px 20px;">
+
 '''Rossweisse''' (ロスヴァイセ, ''Rosuvaise'')
 
 [[File:Tank-Rossweisse.jpg|left|]]
@@ -164,7 +154,7 @@ Muški polu-vampir koji se voli oblačiti kao djevojka, ima moć zaustavljanja v
 Izvorno tjelohranitelj Odin-a. Nakon bitke s Loki-em i Fenrir-om, Odin ju ostavio u Ise-jevom gradu. Onda ju je Rias uvjerila da postane njezina služavka. Postaje učitelj u Kuou Akademiji.<DIV>
 
 </div>
-<div style="float: left; width:42%; margin: 5px 20px;">
+
 '''Irina Shidou''' (紫藤イリナ, ''Shidō Irina'')
 
 [[File:Ace-Irina.jpg|left|]]
@@ -178,7 +168,7 @@ Ona je Xenovijin partner i Ise-jeva prijateljica iz djetinjstva. Nakon što je s
 
 </div>
 <br style="clear: both;" />
-<div style="float: left; width:42%; margin: 5px 20px;">
+
 
 </div>
 <br style="clear: both;" />
