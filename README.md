@@ -1,4 +1,6 @@
-<html>[[Image:DxDV1Cover.png|250px|thumb|High School DxD Volume 1 Cover]]
+<html>
+ <body>
+ <img src="DxDV1Cover.png">
 
 '''''High School D×D''''' (ハイスクールD×D, ''Haisukūru D×D'') je serija Japanskih light novela, koju je napisao Ichiei Ishibumi, a ilustriracije je odradio Miyama-Zero, izdavač je Fujimi Shobo pod njihovom Fujimi Fantasia etiketi.
 
@@ -57,7 +59,7 @@ Treća priča: Knjige 7-12
 <div style="float: left; width:42%; margin: 5px 20px;">
 '''Hyoudou Issei ''' (兵藤 一誠, ''Hyōdō Issei'')
 
-[[File:Pawn-Ise.jpg|left|]]
+<img src="Pawn-Ise.jpg">
 
 '''Rang/Uloga:''' Vrag niže klase -> Vrag srednje klase (Prijašnje ljudsko biće)/Pješak(x8)
 
@@ -74,7 +76,7 @@ Pohađa 2. razred Gimnazije. Glup, pohotljiv i pokvarenjak(pervert). Normalan gi
 
 '''Rias Gremory''' (リアス・グレモリー, ''Riasu Guremorī'')
 
-[[File:King-Rias.jpg|left|]]
+<img src="King-Rias.jpg">
 
 '''Rang/Uloga:''' Visoko rangirani vrag (Čistokrvni vrag)/Kralj
 
@@ -87,7 +89,7 @@ Pohađa 3. razred gimnazije i smatraju ju Madonnom akademije. Dolazi iz stare pl
 <div style="float: left; width:42%; margin: 5px 20px;">
 '''Asia Argento''' (アーシア・アルジェント, ''Âshia Arujento'')
 
-[[File:Bishop-Asia.jpg|left|]]
+<img src="Bishop-Asia.jpg">
 
 '''Rang/Uloga:''' Vrag niže klase (Prijašnje ljudsko biće)/Lovac
 
@@ -99,7 +101,7 @@ Pohađa 2. razred Gimnazije. Originalno je bila časna sestra koja je bila pozna
 <div style="float: left; width:42%; margin: 5px 20px;">
 '''Himejima Akeno''' (姫島 朱乃, ''Himejima Akeno'')
 
-[[File:Queen-Akeno.jpg|left|]]
+<img src="Queen-Akeno.jpg">
 
 '''Rang/Uloga:''' Vrag niže klase -> Vrag srednje klase(Prijašnje ljudsko biće/pali-anđeo)/Kraljica
 
@@ -300,4 +302,5 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 **High School D×D 15, ハイスクールD×D15 ??? (Limited Edition - May ?, 2012 ISBN 978-???)
 
 [[Category:Light novel (Croatian)]]
+</body>
 </html>
