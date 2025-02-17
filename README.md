@@ -1,4 +1,4 @@
-[[Image:DxDV1Cover.png|250px|thumb|High School DxD Volume 1 Cover]]
+<html>[[Image:DxDV1Cover.png|250px|thumb|High School DxD Volume 1 Cover]]
 
 '''''High School D×D''''' (ハイスクールD×D, ''Haisukūru D×D'') je serija Japanskih light novela, koju je napisao Ichiei Ishibumi, a ilustriracije je odradio Miyama-Zero, izdavač je Fujimi Shobo pod njihovom Fujimi Fantasia etiketi.
 
@@ -229,8 +229,6 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 ** Volume 2 Život 0 '''ZAVRŠENO'''
 
 ==''High School DxD'' serijal Ichieija Ishibumija==
- 
-'''EPUB i MOBI verzije knjiga možete naći na forumu [http://www.baka-tsuki.org/forums/viewtopic.php?f=44&t=4860 ovdje] i  PDF verziju [http://www.baka-tsuki.org/forums/viewtopic.php?f=61&t=4814 ovdje].'''
 
 ===Volume 1 - Demoni stare školske zgrade ([[High School DxD: Croatian Volume 1|Čitav tekst]])===
 
@@ -302,14 +300,4 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 **High School D×D 15, ハイスクールD×D15 ??? (Limited Edition - May ?, 2012 ISBN 978-???)
 
 [[Category:Light novel (Croatian)]]
-
-
-
-
-
-
-
-
-
-
-
+</html>
