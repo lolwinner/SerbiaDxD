@@ -219,28 +219,55 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 <a href="3 život 5.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.5 Sudar sudbina  Novi Vitez protiv Novog Rivala!]]</a><BR>
 <BR>
 ===Volume 4 -Vampir isključene učionice  ([[High School DxD: Croatian Volume 4|Čitav tekst]])===<BR>
-<a href="4 život 0.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.0]]</a><BR>
-<a href="4 život 1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.1 Leto je! Vreme za kupaće kostime! Da li sam u nevolji?]]</a><BR>
-<a href="4 život 2.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.2 Poseta razredu Počinje]]</a><BR>
-<a href="4 život 3.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.3 Dobio sam Kouhai-a(junior)]]</a><BR>
-<a href="4 život 3.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.3.1 Grigori.1]]</a><BR>
-<a href="4 život 4.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.4 Zasedanje VIP-eva počinje! ]]</a><BR>
-<a href="4 život 4.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.4.1 Khaos Brigada]]</a><BR>
-<a href="4 život 5.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.5 Velški Zmaj i Nestajući Zmaj ]]</a><BR>
-<a href="4 život 5.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.5.1 Festival se Završava]]</a><BR>
-<a href="4 život 6.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.6 Novi Život]]</a><BR>
-<a href="4 život 6.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.6.1 Grigori.2]]</a><BR>
-<a href="4 život 6.2.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.6.2 Valhala]]</a><BR>
-<a href="4 život 7.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.7 Poseban Život]]</a><BR>
-<a href="4 život 8.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.8 Pogovor]]</a><BR>
+<a href="4 život 0.html">::*[[High School DxD: Serbian Volume 4 Život 0|Život.0]]</a><BR>
+<a href="4 život 1.html">::*[[High School DxD: Serbian Volume 4 Život 1|Život.1 Leto je! Vreme za kupaće kostime! Da li sam u nevolji?]]</a><BR>
+<a href="4 život 2.html">::*[[High School DxD: Serbian Volume 4 Život 2|Život.2 Poseta razredu Počinje]]</a><BR>
+<a href="4 život 3.html">::*[[High School DxD: Serbian Volume 4 Život 3|Život.3 Dobio sam Kouhai-a(junior)]]</a><BR>
+<a href="4 život 3.1.html">::*[[High School DxD: Serbian Volume 4 Život 3.1|Život.3.1 Grigori.1]]</a><BR>
+<a href="4 život 4.html">::*[[High School DxD: Serbian Volume 4 Život 4|Život.4 Zasedanje VIP-eva počinje! ]]</a><BR>
+<a href="4 život 4.1.html">::*[[High School DxD: Serbian Volume 4 Život 4.1|Život.4.1 Khaos Brigada]]</a><BR>
+<a href="4 život 5.html">::*[[High School DxD: Serbian Volume 4 Život 5|Život.5 Velški Zmaj i Nestajući Zmaj ]]</a><BR>
+<a href="4 život 5.1.html">::*[[High School DxD: Serbian Volume 4 Život 5.1|Život.5.1 Festival se Završava]]</a><BR>
+<a href="4 život 6.html">::*[[High School DxD: Serbian Volume 4 Život 6|Život.6 Novi Život]]</a><BR>
+<a href="4 život 6.1.html">::*[[High School DxD: Serbian Volume 4 Život 6.1|Život.6.1 Grigori.2]]</a><BR>
+<a href="4 život 6.2.html">::*[[High School DxD: Serbian Volume 4 Život 6.2|Život.6.2 Valhala]]</a><BR>
+<a href="4 život 7.html">::*[[High School DxD: Serbian Volume 4 Život 7|Život.7 Poseban Život]]</a><BR>
+<a href="4 život 8.html">::*[[High School DxD: Serbian Volume 4 Život 8|Život.8 Pogovor]]</a><BR>
 
 <BR>
 <BR>
 ===Volume 5 -Kamp za obuku paklene mačke podzemlja  ([[High School DxD: Croatian Volume 5|Čitav tekst]])===<BR>
 <BR>
+<a href="5 život 0.html">::*[[High School DxD: Serbian Volume 5 Život 0|Život.0 ]]</a><BR>
+<a href="5 život 1.html">::*[[High School DxD: Serbian Volume 5 Život 1|Život.1 Letnji je raspust, hajdemo u Podzemlje!]]</a><BR>
+<a href="5 život 2.html">::*[[High School DxD: Serbian Volume 5 Život 2|Život.2 Okupljanje mladih đavola!]]</a><BR>
+<a href="5 život 3.html">::*[[High School DxD: Serbian Volume 5 Život 3|Život.3 Mačka i Zmaj!]]</a><BR>
+<a href="5 život 3.1.html">::*[[High School DxD: Serbian Volume 5 Život 3.1|Život.3.1 Odin]]</a><BR>
+<a href="5 život 4.html">::*[[High School DxD: Serbian Volume 5 Život 4|Život.4 Bučo vs Kaičo: Prva Polovina!]]</a><BR>
+<a href="5 život 4.1.html">::*[[High School DxD: Serbian Volume 5 Život 4.1|Život.4.1 Valcer]]</a><BR>
+<a href="5 život 5.html">::*[[High School DxD: Serbian Volume 5 Život 5|Život.5 Bučo vs Kaičo: Druga Polovina!]]</a><BR>
+<a href="5 život 5.1.html">::*[[High School DxD: Serbian Volume 5 Život 5.1|Život.5.1 VIP]]</a><BR>
+<a href="5 život 5.2.html">::*[[High School DxD: Serbian Volume 5 Život 5.2|Život.5.2 Završetak Igre]]</a><BR>
+<a href="5 život 5.3.html">::*[[High School DxD: Serbian Volume 5 Život 5.3|Život.5.3 POBEDNIK]]</a><BR>
+<a href="5 život 5.4.html">::*[[High School DxD: Serbian Volume 5 Život 5.4|Život.5.4 Ponovno Okupljanje]]</a><BR>
+<a href="5 život 6.html">::*[[High School DxD: Serbian Volume 5 Život 6|Život.6 Pogovor]]</a><BR>
 <BR>
 ===Volume 6 -Sveto iza sale za fizičko  ([[High School DxD: Croatian Volume 6|Čitav tekst]])===<BR>
 <BR>
+<a href="6 život 0.html">::*[[High School DxD: Serbian Volume 6 Život 0|Život.0 ]]</a><BR>
+<a href="6 život 1.html">::*[[High School DxD: Serbian Volume 6 Život 1|Život.1 Druga Godina počinje!]]</a><BR>
+<a href="6 život 2.html">::*[[High School DxD: Serbian Volume 6 Život 2|Život.2 Azia-ćan-ine brige]]</a><BR>
+<a href="6 život 2.1.html">::*[[High School DxD: Serbian Volume 6 Život 2.1|Život.2.1 Azija]]</a><BR>
+<a href="6 život 2.2.html">::*[[High School DxD: Serbian Volume 6 Život 2.2|Život.2.2 Gazda vs Gazda]]</a><BR>
+<a href="6 život 3.html">::*[[High School DxD: Serbian Volume 6 Život 3|Život.3 Velika bitka počinje!]]</a><BR>
+<a href="6 život 3.1.html">::*[[High School DxD: Serbian Volume 6 Život 3.1|Život.3.1 Uroboros]]</a><BR>
+<a href="6 život 4.html">::*[[High School DxD: Serbian Volume 6 Život 4|Život.4 Ja Te Volim]]</a><BR>
+<a href="6 život 4.1.html">::*[[High School DxD: Serbian Volume 6 Život 4.1|Život.4.1 Nezaustavljiv Sunovrat]]</a><BR>
+<a href="6 život 5.html">::*[[High School DxD: Serbian Volume 6 Život 5|Život.5 Veliki Crveni!]]</a><BR>
+<a href="6 život 5.1.html">::*[[High School DxD: Serbian Volume 6 Život 5.1|Život.5.1 Vali Lucifer]]</a><BR>
+<a href="6 život 5.2.html">::*[[High School DxD: Serbian Volume 6 Život 5.2|Život.5.2 Heroji]]</a><BR>
+<a href="6 život 6.html">::*[[High School DxD: Serbian Volume 6 Život 6|Život.6 Novi Život]]</a><BR>
+<a href="6 život 7.html">::*[[High School DxD: Serbian Volume 6 Život 7|Život.7 Pogovor]]</a><BR>
 <BR>
 ===Volume 7 -Ragnarok posle škole  ([[High School DxD: Croatian Volume 7|Čitav tekst]])===<BR>
 <BR>
