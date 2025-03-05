@@ -174,47 +174,77 @@ Ona je Xenovijin partner i Ise-jeva prijateljica iz djetinjstva. Nakon što je s
 '''Svako poglavlje (nakon uređivanja) mora biti u skladu sa smjernicama za oblikovanje.'''
 *[[Format_guideline|Oblikovanje/smjernice za stil]]
 *[[High School DxD: Names and Terminology Guidelines]]<BR>
-
+<BR>
 Prevođenje se vrši s Engleskog na Srpski. Zna se naći pogreška u Engleskoj verziji, pa se može desiti da prevedem krivo neki dio. Slobodno ispraviti greške na koje naiđete u tekstu, ako ste nešto ispravili što niste htjeli, nema problema postoji back-up na računalu.
 I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru projekta ili otiđite na forum, te pitajte kako se pridružiti određenom projektu.
-
-
+<BR>
+<BR>
 ==''High School DxD'' serijal Ichieija Ishibumija==<BR>
-
+<BR>
 ===Volume 1 - Demoni stare školske zgrade ([[High School DxD: Croatian Volume 1|Čitav tekst]])===<BR>
-
-::*[[High School DxD: Croatian Volume 1 Život 0|Život.0]]<BR>
-::*[[High School DxD: Croatian Volume 1 Život 1|Život.1 Odustao sam biti ljudsko biće(37%).]]<BR>
-::*[[High School DxD: Croatian Volume 1 Život 2|Život.2 Počinjem kao Vrag.]]<BR>
-::*[[High School DxD: Croatian Volume 1 Život 3|Život.3 Sprijateljio sam se.]]<BR>
-::*[[High School DxD: Croatian Volume 1 Život 4|Život.4 Spasit ću svog prijatelja!]]<BR>
-::*[[High School DxD: Croatian Volume 1 Novi Život|Novi Život.]]<BR>
-::*[[High School DxD: Croatian Volume 1 Pogovor|Pogovor.]]<BR>
-
+<BR>
+<a href="1život 0.html">::*[[High School DxD: Serbian Volume 1 Život 0|Život.0]]</a><BR>
+<a href="1život 1.html">::*[[High School DxD: Serbian Volume 1 Život 1|Život.1 Odustao sam biti ljudsko biće.]]</a><BR>
+<a href="1život 2.html">::*[[High School DxD: Serbian Volume 1 Život 2|Život.2 Počinjem kao Vrag.]]</a><BR>
+<a href="1život 3.html">::*[[High School DxD: Serbian Volume 1 Život 3|Život.3 Sprijateljio sam se.]]</a><BR>
+<a href="1život 4.html">::*[[High School DxD: Serbian Volume 1 Život 4|Život.4 Spasit ću svog prijatelja!]]</a><BR>
+<a href="1život 5.html">::*[[High School DxD: Serbian Volume 1 Novi Život|Novi Život.]]</a><BR>
+<a href="1život 6.html">::*[[High School DxD: Serbian Volume 1 Pogovor|Pogovor.]]</a><BR>
+<BR>
 ===Volume 2 - Phoenix u borbi za staru školsku zgradu ([[High School DxD: Croatian Volume 2|Čitav tekst]])===<BR>
+<BR>
 
-::*[[High School DxD: Croatian Volume 2 Život 0|Život.0]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 1|Život.1 Radim kao vrag.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 2|Život.2 Potukao sam se.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 3|Život.3 Počeo sam s treningom.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 4|Život.4 Odlučujuća borba započinje!]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 5|Život.5 Visoke pohvale tijekom odlučujuće borbe!]]<BR>
-::**[[High School DxD: Croatian Volume 2 Šah mat|Šah mat.]]<DIV>
-::**[[High School DxD: Croatian Volume 2 Kraj Igre|Kraj Igre.]]<DIV>
-::*[[High School DxD: Croatian Volume 2 Život. ∞ vs Snaga ∞|Život. ∞ vs Snaga ∞ Došao sam ispuniti obećanje!]]<BR>
-::**[[High School DxD: Croatian Volume 2 OtacxOtac|Otac x Otac.]]<BR>
-::**[[High School DxD: Croatian Volume 2 Posljednji poljubac|Posljednji poljubac.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Novi Život|Novi Život.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Pogovor|Pogovor.]]<BR>
-
+<a href="2život 0.html">::*[[High School DxD: Serbian Volume 2 Život 0|Život.0]]</a><BR>
+<a href="2život 1.html">::*[[High School DxD: Serbian Volume 2 Život 1|Život.1 Radim kao vrag.]]</a><BR>
+<a href="2život 2.html">::*[[High School DxD: Serbian Volume 2 Život 2|Život.2 Potukao sam se.]]</a><BR>
+<a href="2život 3.html">::*[[High School DxD: Serbian Volume 2 Život 3|Život.3 Počeo sam s treningom.]]</a><BR>
+<a href="2život 4.html">::*[[High School DxD: Serbian Volume 2 Život 4|Život.4 Odlučujuća borba započinje!]]</a><BR>
+<a href="2život 5.html">::*[[High School DxD: Serbian Volume 2 Život 5|Život.5 Visoke pohvale tijekom odlučujuće borbe!]]</a><BR>
+<a href="2život 5.1.html">::**[[High School DxD: Serbian Volume 2 Šah mat|Šah mat.]]</a><BR>
+<a href="2život 5.2.html">::**[[High School DxD: Serbian Volume 2 Kraj Igre|Kraj Igre.]]</a><BR>
+<a href="2život 5.3.html">::*[[High School DxD: Serbian Volume 2 Život. ∞ vs Snaga ∞|Život. ∞ vs Snaga ∞ Došao sam ispuniti obećanje!]]</a><BR>
+<a href="2život 5.4.html">::**[[High School DxD: Serbian Volume 2 OtacxOtac|Otac x Otac.]]</a><BR>
+<a href="2život 5.5.html">::**[[High School DxD: Serbian Volume 2 Posljednji poljubac|Posljednji poljubac.]]</a><BR>
+<a href="2život 6.html">::*[[High School DxD: Serbian Volume 2 Novi Život|Novi Život.]]</a><BR>
+<a href="2život 7.html">::*[[High School DxD: Serbian Volume 2 Pogovor|Pogovor.]]</a><BR>
+<BR>
 ===Volume 3 -Ekskalibur mesečinom obasjanog školskog dvorišta  ([[High School DxD: Croatian Volume 2|Čitav tekst]])===<BR>
-<a href="3život 0.html">::*[[High School DxD: Croatian Volume 2 Život 0|Život.0]]</a><BR>
-<a href="3život 0.html">::*[[High School DxD: Croatian Volume 2 Život 1|Život.1 Zagrej klub okultnih istraživača.]]</a><BR>
+<BR>
+<a href="3život 0.html">::*[[High School DxD: Serbian Volume 3 Život 0|Život.0]]</a><BR>
+<a href="3život 1.html">::*[[High School DxD: Serbian Volume 3 Život 1|Život.1 Zagrej klub okultnih istraživača.]]</a><BR>
 
-::*[[High School DxD: Croatian Volume 2 Život 2|Život.2 Sveti mač je stigao.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 3|Život.3 Sudnji dan za sveti mač!.]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 4|Život.4 Kreni!Klub okultnih istraživača!]]<BR>
-::*[[High School DxD: Croatian Volume 2 Život 5|Život.5 Sudar sudbina  Novi Vitez protiv Novog Rivala!]]<BR>
+<a href="3 život 2.html">::*[[High School DxD: Serbian Volume 3 Život 2|Život.2 Sveti mač je stigao.]]</a><BR>
+<a href="3 život 3.html">::*[[High School DxD: Serbian Volume 3 Život 3|Život.3 Sudnji dan za sveti mač!.]]</a><BR>
+<a href="3 život 4.html">::*[[High School DxD: Serbian Volume 3 Život 4|Život.4 Kreni!Klub okultnih istraživača!]]</a><BR>
+<a href="3 život 5.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.5 Sudar sudbina  Novi Vitez protiv Novog Rivala!]]</a><BR>
+<BR>
+===Volume 4 -Vampir isključene učionice  ([[High School DxD: Croatian Volume 4|Čitav tekst]])===<BR>
+<a href="4 život 0.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.0]]</a><BR>
+<a href="4 život 1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.1 Leto je! Vreme za kupaće kostime! Da li sam u nevolji?]]</a><BR>
+<a href="4 život 2.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.2 Poseta razredu Počinje]]</a><BR>
+<a href="4 život 3.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.3 Dobio sam Kouhai-a(junior)]]</a><BR>
+<a href="4 život 3.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.3.1 Grigori.1]]</a><BR>
+<a href="4 život 4.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.4 Zasedanje VIP-eva počinje! ]]</a><BR>
+<a href="4 život 4.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.4.1 Khaos Brigada]]</a><BR>
+<a href="4 život 5.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.5 Velški Zmaj i Nestajući Zmaj ]]</a><BR>
+<a href="4 život 5.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.5.1 Festival se Završava]]</a><BR>
+<a href="4 život 6.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.6 Novi Život]]</a><BR>
+<a href="4 život 6.1.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.6.1 Grigori.2]]</a><BR>
+<a href="4 život 6.2.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.6.2 Valhala]]</a><BR>
+<a href="4 život 7.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.7 Poseban Život]]</a><BR>
+<a href="4 život 8.html">::*[[High School DxD: Serbian Volume 3 Život 5|Život.8 Pogovor]]</a><BR>
+
+<BR>
+<BR>
+===Volume 5 -Kamp za obuku paklene mačke podzemlja  ([[High School DxD: Croatian Volume 5|Čitav tekst]])===<BR>
+<BR>
+<BR>
+===Volume 6 -Sveto iza sale za fizičko  ([[High School DxD: Croatian Volume 6|Čitav tekst]])===<BR>
+<BR>
+<BR>
+===Volume 7 -Ragnarok posle škole  ([[High School DxD: Croatian Volume 7|Čitav tekst]])===<BR>
+<BR>
+<BR>
 ==Osoblje projekta==
 <BR>
 *Administrator projekta: [[user:Lolwinner]]<BR>
@@ -257,3 +287,4 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 [[Category:Light novel (Serbian)]]
 </body>
 </html>
+
