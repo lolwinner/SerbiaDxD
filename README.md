@@ -314,4 +314,3 @@ I slobodo se pridružite prevođenju knjiga, javite se glavnom administratoru pr
 [[Category:Light novel (Serbian)]]
 </body>
 </html>
-
